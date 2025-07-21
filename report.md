@@ -1,7 +1,7 @@
 # AI Tools and Applications Assignment Report
 
 **Theme:** Mastering the AI Toolkit  
-**Author:** [Your Full Name]  
+**Author:** [June Wahu]  
 **Profession:** Medical Doctor, MBChB Student
 
 ---

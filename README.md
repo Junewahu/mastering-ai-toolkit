@@ -1,6 +1,6 @@
 # Mastering the AI Toolkit
 
-**Author:** [Your Full Name]
+**Author:** [JUNE WAHU]
 **Profession:** Medical Doctor, MBChB Student
 
 ## Overview
@@ -27,4 +27,4 @@ report.pdf                  # Final report
 - **Bonus:** Streamlit deployment
 
 ## Author
-[Your Name], MBChB Student & Developer 
+[June Wahu], MBChB Student & Developer 
